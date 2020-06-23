@@ -1,0 +1,17 @@
+Pokedex with Spring Webflux
+
+house To run this project you will need mvn clean & mvn install
+
+arrow_forward After, just run the main() class
+
+@SpringBootApplication public class ReactivewebApplication
+
+arrow_right Endoints:
+
+http://localhost:8080/pokemons
+
+http://localhost:8080/pokemons/events
+
+http://localhost:8080/pokemons/{id}
+
+May the Code be With U!
